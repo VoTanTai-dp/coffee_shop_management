@@ -1,0 +1,14 @@
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CTU\2025\CT310H_.Net\Final_Project\project\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\Guna.UI2.dll
